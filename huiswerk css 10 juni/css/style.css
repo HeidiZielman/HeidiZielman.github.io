@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+div{
+background-color: darkturquoise;
+text-align: center;
+margin:center;
+border: 7px solid black;
+border-radius: 2em;
+max-width: auto;
+}
+h1{
+    font-size: 60px;    
+}
+h2{
+  font-size: 30px;
+}
+img{
+  border: 4px solid black;
+  border-radius: 50%;
+  max-width: 50%;
+}
